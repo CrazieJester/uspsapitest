@@ -1,0 +1,6 @@
+C:\Projects\USPStest\USPStest\bin\Debug\USPStest.exe.config
+C:\Projects\USPStest\USPStest\bin\Debug\USPStest.exe
+C:\Projects\USPStest\USPStest\bin\Debug\USPStest.pdb
+C:\Projects\USPStest\USPStest\obj\Debug\USPStest.csprojResolveAssemblyReference.cache
+C:\Projects\USPStest\USPStest\obj\Debug\USPStest.exe
+C:\Projects\USPStest\USPStest\obj\Debug\USPStest.pdb
