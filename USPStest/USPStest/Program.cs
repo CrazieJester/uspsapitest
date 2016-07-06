@@ -62,7 +62,9 @@ namespace USPStest
             XmlNodeList elemList = doc.GetElementsByTagName("Rate");
             for (int i = 0; i < elemList.Count; i++)
             {
-                Console.WriteLine(elemList[i].InnerXml);
+                Console.Write("The calculated rate is ");
+                Console.Write(elemList[i].InnerXml);
+                Console.WriteLine(" USD");
             }
 
             // if there is an error, desplay it
